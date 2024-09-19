@@ -17,7 +17,7 @@ I possess around 3 years of professional experience in the field of Software Eng
 - 🔭 I’m currently working on MERN and React Native.
 - 🌱 I’m currently learning Web3.0
 - 💬 Ask me about anything tech-related, I'm here to help!
-- 📫 How to reach me: mehtaba728@gmail.com
+- 📫 How to reach me: mshahaurangzeb45@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: Instead of counting sheep to fall asleep, I count lines of code in my head. It's surprisingly effective!
 
