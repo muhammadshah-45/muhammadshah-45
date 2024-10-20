@@ -10,12 +10,11 @@ I possess around 3 years of professional experience in the field of Software Eng
 
 - YouTube https://www.youtube.com/@mshahdevs
 
-- LinkedIn https://www.linkedin.com/in/
+- LinkedIn https://www.linkedin.com/in/mshahdevs/
 
 ## 🚀 Quick Overview
 
-- 🔭 I’m currently working on MERN and React Native.
-- 🌱 I’m currently learning Web3.0
+- 🔭 I’m currently working on React.
 - 💬 Ask me about anything tech-related, I'm here to help!
 - 📫 How to reach me: mshahaurangzeb45@gmail.com
 - 😄 Pronouns: He
@@ -23,19 +22,11 @@ I possess around 3 years of professional experience in the field of Software Eng
 
 ## 🛠️ Skills
 
-- **Languages:** JavaScript, TypeScript
-- **Frameworks:** React, Node.js, Express.js
-- **Databases:** MongoDB, MySQL
-- **Tools:** Git, VS Code, Docker
+- **Languages:** HTML ,CSS, JavaScript
+- **Frameworks:** React,TailwindCSS
+- **Tools:** Git, VS Code
 
-## 🌟 Featured Projects
 
-- My Fitness Coach (https://apps.apple.com/pk/app/myfitnesscoach-diet-workout/id1670136195) - Transform your fitness journey with the myfitnesscoach app! 🏋️‍♀️💪 Discover 500+ workouts guided by professional coaches - making fitness easier than ever. 📲
-
-## 📊 GitHub Stats & Contributions
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=alammehtab&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alammehtab&layout=compact&theme=radical)
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas!
 
